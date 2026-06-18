@@ -1,0 +1,419 @@
+{
+  "leaderboard": [
+    {
+      "name": "Aizen",
+      "score": 5535,
+      "pieces": 56,
+      "time": "01:14",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 1,
+      "best_flip": 6,
+      "ts": 1780366016
+    },
+    {
+      "name": "Aizen",
+      "score": 2348,
+      "pieces": 63,
+      "time": "03:03",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 4,
+      "best_flip": 11,
+      "ts": 1780366833
+    },
+    {
+      "name": "Player",
+      "score": 1474,
+      "pieces": 14,
+      "time": "00:05",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780368251
+    },
+    {
+      "name": "Aizen",
+      "score": 1335,
+      "pieces": 13,
+      "time": "00:07",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780362907
+    },
+    {
+      "name": "Aizen",
+      "score": 1306,
+      "pieces": 12,
+      "time": "00:07",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780366590
+    },
+    {
+      "name": "Aizen",
+      "score": 1233,
+      "pieces": 12,
+      "time": "00:26",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 2,
+      "ts": 1780366620
+    },
+    {
+      "name": "Aizen",
+      "score": 1193,
+      "pieces": 12,
+      "time": "00:08",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780366631
+    },
+    {
+      "name": "Aizen",
+      "score": 1056,
+      "pieces": 10,
+      "time": "00:21",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780365940
+    },
+    {
+      "name": "anndi",
+      "score": 892,
+      "pieces": 9,
+      "time": "00:12",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 2,
+      "ts": 1780363481
+    },
+    {
+      "name": "Player",
+      "score": 889,
+      "pieces": 9,
+      "time": "00:40",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 1,
+      "best_flip": 1,
+      "ts": 1780367566
+    },
+    {
+      "name": "Aizen",
+      "score": 343,
+      "pieces": 4,
+      "time": "00:55",
+      "diff": "Medium",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780362781
+    },
+    {
+      "name": "Aizen",
+      "score": 225,
+      "pieces": 14,
+      "time": "01:10",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 2,
+      "best_flip": 2,
+      "ts": 1780364270
+    },
+    {
+      "name": "Player",
+      "score": 77,
+      "pieces": 18,
+      "time": "02:08",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 1,
+      "best_flip": 4,
+      "ts": 1780367714
+    },
+    {
+      "name": "Player",
+      "score": 44,
+      "pieces": 3,
+      "time": "00:06",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "win",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780367503
+    },
+    {
+      "name": "Aizen",
+      "score": -40,
+      "pieces": 2,
+      "time": "00:02",
+      "diff": "Easy",
+      "mode": "Standard",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 0,
+      "ts": 1780364195
+    },
+    {
+      "name": "Player",
+      "score": -40,
+      "pieces": 2,
+      "time": "00:02",
+      "diff": "Easy",
+      "mode": "Standard",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 0,
+      "ts": 1780367953
+    },
+    {
+      "name": "Aizen",
+      "score": -100,
+      "pieces": 3,
+      "time": "00:06",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "tie",
+      "corners": 0,
+      "best_flip": 1,
+      "ts": 1780366644
+    },
+    {
+      "name": "Aizen",
+      "score": -431,
+      "pieces": 11,
+      "time": "00:17",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 1,
+      "best_flip": 1,
+      "ts": 1780364147
+    },
+    {
+      "name": "anndi",
+      "score": -540,
+      "pieces": 51,
+      "time": "05:55",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 2,
+      "best_flip": 11,
+      "ts": 1780363844
+    },
+    {
+      "name": "Player",
+      "score": -1297,
+      "pieces": 32,
+      "time": "03:13",
+      "diff": "Easy",
+      "mode": "Standard",
+      "result": "tie",
+      "corners": 1,
+      "best_flip": 5,
+      "ts": 1780367944
+    },
+    {
+      "name": "Aizen",
+      "score": -2129,
+      "pieces": 51,
+      "time": "04:58",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 0,
+      "best_flip": 9,
+      "ts": 1780363212
+    },
+    {
+      "name": "Player",
+      "score": -2170,
+      "pieces": 37,
+      "time": "02:38",
+      "diff": "Easy",
+      "mode": "Chaos",
+      "result": "loss",
+      "corners": 1,
+      "best_flip": 6,
+      "ts": 1780363393
+    }
+  ],
+  "player_stats": {
+    "Aizen": {
+      "played": 13,
+      "wins": 5,
+      "losses": 7,
+      "ties": 1,
+      "high_score": 5535,
+      "total_time": 0,
+      "diff_stats": {
+        "Easy": {
+          "played": 12,
+          "wins": 5
+        },
+        "Medium": {
+          "played": 1,
+          "wins": 0
+        },
+        "Hard": {
+          "played": 0,
+          "wins": 0
+        }
+      },
+      "total_corners": 8,
+      "corner_games": 13,
+      "highest_flip": 11,
+      "achievements": [
+        "first_blood",
+        "speed_demon",
+        "flawless_victory",
+        "clean_sweep",
+        "veteran",
+        "collector",
+        "corner_hoarder",
+        "flip_master"
+      ],
+      "current_streak": 0,
+      "best_streak": 2,
+      "daily_games": {
+        "2026-06-02": {
+          "played": 13,
+          "wins": 5
+        }
+      }
+    },
+    "Player": {
+      "played": 7,
+      "wins": 3,
+      "losses": 3,
+      "ties": 1,
+      "high_score": 1474,
+      "total_time": 0,
+      "diff_stats": {
+        "Easy": {
+          "played": 7,
+          "wins": 3
+        },
+        "Medium": {
+          "played": 0,
+          "wins": 0
+        },
+        "Hard": {
+          "played": 0,
+          "wins": 0
+        }
+      },
+      "total_corners": 4,
+      "corner_games": 7,
+      "highest_flip": 6,
+      "achievements": [
+        "first_blood",
+        "speed_demon",
+        "flawless_victory"
+      ],
+      "current_streak": 1,
+      "best_streak": 2,
+      "daily_games": {
+        "2026-06-02": {
+          "played": 7,
+          "wins": 3
+        }
+      }
+    },
+    "anndi": {
+      "played": 2,
+      "wins": 1,
+      "losses": 1,
+      "ties": 0,
+      "high_score": 892,
+      "total_time": 0,
+      "diff_stats": {
+        "Easy": {
+          "played": 2,
+          "wins": 1
+        },
+        "Medium": {
+          "played": 0,
+          "wins": 0
+        },
+        "Hard": {
+          "played": 0,
+          "wins": 0
+        }
+      },
+      "total_corners": 2,
+      "corner_games": 2,
+      "highest_flip": 11,
+      "achievements": [
+        "first_blood",
+        "speed_demon",
+        "flawless_victory",
+        "flip_master"
+      ],
+      "current_streak": 0,
+      "best_streak": 1,
+      "daily_games": {
+        "2026-06-02": {
+          "played": 2,
+          "wins": 1
+        }
+      }
+    }
+  },
+  "stats": {
+    "played": 22,
+    "wins": 9,
+    "losses": 11,
+    "ties": 2,
+    "high_score": 5535,
+    "total_time": 0,
+    "diff_stats": {
+      "Easy": {
+        "played": 0,
+        "wins": 0
+      },
+      "Medium": {
+        "played": 0,
+        "wins": 0
+      },
+      "Hard": {
+        "played": 0,
+        "wins": 0
+      }
+    },
+    "total_corners": 0,
+    "corner_games": 0,
+    "highest_flip": 0,
+    "achievements": [],
+    "current_streak": 0,
+    "best_streak": 0,
+    "daily_games": {}
+  }
+}

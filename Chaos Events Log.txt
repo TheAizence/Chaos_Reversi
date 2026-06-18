@@ -1,0 +1,592 @@
+2026-06-01 22:43:34 | Player:AI | Turn:4 | Event:Void removed 5 tiles
+2026-06-01 22:47:52 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 0 pieces
+2026-06-01 23:31:24 | Player:AI | Turn:4 | Event:Void removed 8 tiles
+2026-06-01 23:35:12 | Player:AI | Turn:4 | Event:Rainy Days spawned 17 pieces
+2026-06-01 23:51:17 | Player:AI | Turn:4 | Event:Earthquake shifts every piece to the down
+2026-06-01 23:51:18 | Player:AI | Turn:4 | Event:<__main__.ChaosEvent object at 0x00000289212BA650>
+2026-06-01 23:56:23 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 6
+2026-06-01 23:56:23 | Player:AI | Turn:4 | Event:<__main__.ChaosEvent object at 0x00000249E4E1EF90>
+2026-06-02 00:26:10 | Player:Player | Turn:4 | Event:<__main__.ChaosEvent object at 0x0000014BE3172990>
+2026-06-02 00:26:16 | Player:AI | Turn:8 | Event:<__main__.ChaosEvent object at 0x0000014BE31F86E0>
+2026-06-02 00:26:21 | Player:Player | Turn:12 | Event:<__main__.ChaosEvent object at 0x0000014BE316F0E0>
+2026-06-02 00:28:47 | Player:AI | Turn:4 | Event:Void removed 10 tiles
+2026-06-02 00:28:47 | Player:AI | Turn:4 | Event:<__main__.ChaosEvent object at 0x000001D9AA59A580>
+2026-06-02 01:33:04 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 5
+2026-06-02 01:33:04 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 01:34:53 | Player:AI | Turn:4 | Event:Rainy Days spawned 14 pieces
+2026-06-02 01:34:53 | Player:2 | Turn:4 | Event:Rainy Days
+2026-06-02 01:34:56 | Player:AI | Turn:8 | Event:Rainy Days spawned 17 pieces
+2026-06-02 01:34:56 | Player:2 | Turn:8 | Event:Rainy Days
+2026-06-02 06:40:20 | Player:AI | Turn:4 | Event:Void removed 10 tiles
+2026-06-02 06:40:20 | Player:2 | Turn:4 | Event:Void
+2026-06-02 06:41:07 | Player:AI | Turn:4 | Event:Void removed 5 tiles
+2026-06-02 06:41:07 | Player:2 | Turn:4 | Event:Void
+2026-06-02 06:48:44 | Player:AI | Turn:4 | Event:Tidal Surge flushed column 0
+2026-06-02 06:48:44 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 06:48:58 | Player:AI | Turn:12 | Event:Tidal Surge flushed column 3
+2026-06-02 06:48:58 | Player:2 | Turn:12 | Event:Tidal Surge
+2026-06-02 06:49:02 | Player:AI | Turn:16 | Event:Tidal Surge flushed row 5
+2026-06-02 06:49:02 | Player:2 | Turn:16 | Event:Tidal Surge
+2026-06-02 06:49:05 | Player:AI | Turn:20 | Event:Starfall destroyed 8 2x2 areas
+2026-06-02 06:49:05 | Player:2 | Turn:20 | Event:Starfall
+2026-06-02 06:56:25 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 7
+2026-06-02 06:56:25 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 06:56:35 | Player:Player | Turn:8 | Event:Cell (4, 6) was smited by divine beings
+2026-06-02 06:56:35 | Player:1 | Turn:8 | Event:Divine Smite
+2026-06-02 06:56:39 | Player:AI | Turn:12 | Event:Stargazer triggered and flipped 2 pieces
+2026-06-02 06:56:39 | Player:2 | Turn:12 | Event:Stargazer
+2026-06-02 06:56:44 | Player:1 | Turn:16 | Event:Fire Hazard
+2026-06-02 06:56:47 | Player:AI | Turn:20 | Event:Rainy Days spawned 16 pieces
+2026-06-02 06:56:47 | Player:2 | Turn:20 | Event:Rainy Days
+2026-06-02 06:56:50 | Player:AI | Turn:24 | Event:Void removed 6 tiles
+2026-06-02 06:56:50 | Player:2 | Turn:24 | Event:Void
+2026-06-02 06:56:54 | Player:AI | Turn:28 | Event:Void removed 7 tiles
+2026-06-02 06:56:54 | Player:2 | Turn:28 | Event:Void
+2026-06-02 06:56:57 | Player:AI | Turn:32 | Event:Earthquake shifts every piece to the left
+2026-06-02 06:56:57 | Player:2 | Turn:32 | Event:Earthquake
+2026-06-02 06:57:01 | Player:AI | Turn:36 | Event:Tidal Surge flushed row 8
+2026-06-02 06:57:01 | Player:2 | Turn:36 | Event:Tidal Surge
+2026-06-02 06:57:17 | Player:AI | Turn:44 | Event:Starfall destroyed 8 2x2 areas
+2026-06-02 06:57:17 | Player:2 | Turn:44 | Event:Starfall
+2026-06-02 06:57:23 | Player:Player | Turn:48 | Event:Piece placed at (9,2) and flipping 1 pieces and mirrored at (2, 9) that flipped 0 pieces
+2026-06-02 06:57:23 | Player:1 | Turn:48 | Event:Mirror
+2026-06-02 06:57:29 | Player:Player | Turn:52 | Event:Piece placed at (9,6) and flipping 1 pieces and mirrored at (2, 5) that flipped 3 pieces
+2026-06-02 06:57:29 | Player:1 | Turn:52 | Event:Mirror
+2026-06-02 06:57:42 | Player:Player | Turn:56 | Event:Piece placed at (8,7) and flipping 3 pieces and mirrored at (3, 4) that flipped 5 pieces
+2026-06-02 06:57:42 | Player:1 | Turn:56 | Event:Mirror
+2026-06-02 06:57:49 | Player:Player | Turn:60 | Event:Convincing Whisper played at (5, 5) and converted [([5, 6], 1), ([5, 4], 1), ([4, 6], 1), ([5, 7], 2), ([5, 3], 2), ([7, 3], 2), ([5, 8], 3), ([5, 9], 4), ([5, 10], 5)] pieces
+2026-06-02 06:57:49 | Player:1 | Turn:60 | Event:Convincing Whisper
+2026-06-02 06:58:02 | Player:Player | Turn:68 | Event:Piece placed at (8,1) and flipping 1 pieces and mirrored at (3, 10) that flipped 2 pieces
+2026-06-02 06:58:02 | Player:1 | Turn:68 | Event:Mirror
+2026-06-02 06:58:07 | Player:AI | Turn:72 | Event:Stargazer triggered and flipped 17 pieces
+2026-06-02 06:58:07 | Player:2 | Turn:72 | Event:Stargazer
+2026-06-02 06:58:20 | Player:AI | Turn:80 | Event:Stargazer triggered and flipped 6 pieces
+2026-06-02 06:58:20 | Player:2 | Turn:80 | Event:Stargazer
+2026-06-02 06:58:27 | Player:Player | Turn:84 | Event:Piece placed at (10,9) and flipping 2 pieces and mirrored at (1, 2) that flipped 1 pieces
+2026-06-02 06:58:27 | Player:1 | Turn:84 | Event:Mirror
+2026-06-02 07:01:20 | Player:AI | Turn:4 | Event:Starfall destroyed 7 2x2 areas
+2026-06-02 07:01:20 | Player:2 | Turn:4 | Event:Starfall
+2026-06-02 07:01:24 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 4
+2026-06-02 07:01:24 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-02 07:01:29 | Player:Player | Turn:12 | Event:Mirror: placed at (8,4), mirrored at (3,7), flipped 0 pieces along the line
+2026-06-02 07:01:29 | Player:1 | Turn:12 | Event:Mirror
+2026-06-02 07:01:35 | Player:Player | Turn:16 | Event:Mirror: placed at (3,4), mirrored at (8,7), flipped 0 pieces along the line
+2026-06-02 07:01:35 | Player:1 | Turn:16 | Event:Mirror
+2026-06-02 07:01:39 | Player:AI | Turn:20 | Event:Rainy Days spawned 14 pieces
+2026-06-02 07:01:39 | Player:2 | Turn:20 | Event:Rainy Days
+2026-06-02 07:01:42 | Player:AI | Turn:24 | Event:Stargazer triggered and flipped 3 pieces
+2026-06-02 07:01:42 | Player:2 | Turn:24 | Event:Stargazer
+2026-06-02 07:01:47 | Player:Player | Turn:28 | Event:Convincing Whisper played at (6, 4) and converted [([6, 3], 1), ([7, 5], 1), ([5, 5], 1), ([5, 3], 1), ([6, 6], 2), ([6, 2], 2), ([4, 6], 2), ([6, 1], 3), ([6, 8], 4)] pieces
+2026-06-02 07:01:47 | Player:1 | Turn:28 | Event:Convincing Whisper
+2026-06-02 07:01:52 | Player:AI | Turn:32 | Event:Tidal Surge flushed row 7
+2026-06-02 07:01:52 | Player:2 | Turn:32 | Event:Tidal Surge
+2026-06-02 07:01:55 | Player:AI | Turn:36 | Event:Rainy Days spawned 17 pieces
+2026-06-02 07:01:55 | Player:2 | Turn:36 | Event:Rainy Days
+2026-06-02 07:02:01 | Player:Player | Turn:40 | Event:Mirror: placed at (10,7), mirrored at (1,4), flipped 0 pieces along the line
+2026-06-02 07:02:01 | Player:1 | Turn:40 | Event:Mirror
+2026-06-02 07:02:04 | Player:AI | Turn:44 | Event:Stargazer triggered and flipped 16 pieces
+2026-06-02 07:02:04 | Player:2 | Turn:44 | Event:Stargazer
+2026-06-02 07:02:07 | Player:AI | Turn:48 | Event:Tidal Surge flushed row 2
+2026-06-02 07:02:07 | Player:2 | Turn:48 | Event:Tidal Surge
+2026-06-02 07:02:12 | Player:Player | Turn:52 | Event:Mirror: placed at (10,9), mirrored at (1,2), flipped 0 pieces along the line
+2026-06-02 07:02:12 | Player:1 | Turn:52 | Event:Mirror
+2026-06-02 07:02:17 | Player:1 | Turn:56 | Event:Fire Hazard
+2026-06-02 07:02:21 | Player:AI | Turn:60 | Event:Tidal Surge flushed column 9
+2026-06-02 07:02:21 | Player:2 | Turn:60 | Event:Tidal Surge
+2026-06-02 07:02:31 | Player:AI | Turn:68 | Event:Earthquake shifts every piece to the down
+2026-06-02 07:02:31 | Player:2 | Turn:68 | Event:Earthquake
+2026-06-02 07:02:35 | Player:AI | Turn:72 | Event:Rainy Days spawned 13 pieces
+2026-06-02 07:02:35 | Player:2 | Turn:72 | Event:Rainy Days
+2026-06-02 07:02:42 | Player:Player | Turn:76 | Event:Fire spreads to [(4, 2), [4, 3], [4, 2], [5, 2], [6, 2], [6, 1], [6, 0], [5, 0]]
+2026-06-02 07:02:42 | Player:1 | Turn:76 | Event:Fire Hazard
+2026-06-02 07:02:51 | Player:Player | Turn:80 | Event:Mirror: placed at (10,4), mirrored at (1,7), flipped 0 pieces along the line
+2026-06-02 07:02:51 | Player:1 | Turn:80 | Event:Mirror
+2026-06-02 07:02:58 | Player:Player | Turn:84 | Event:Mirror: placed at (0,9), mirrored at (11,2), flipped 0 pieces along the line
+2026-06-02 07:02:58 | Player:1 | Turn:84 | Event:Mirror
+2026-06-02 07:03:03 | Player:AI | Turn:88 | Event:Stargazer triggered and flipped 19 pieces
+2026-06-02 07:03:03 | Player:2 | Turn:88 | Event:Stargazer
+2026-06-02 07:03:08 | Player:Player | Turn:92 | Event:Mirror: placed at (0,0), mirrored at (11,11), flipped 9 pieces along the line
+2026-06-02 07:03:08 | Player:1 | Turn:92 | Event:Mirror
+2026-06-02 07:03:14 | Player:Player | Turn:96 | Event:Cell (2, 6) was smited by divine beings
+2026-06-02 07:03:15 | Player:1 | Turn:96 | Event:Divine Smite
+2026-06-02 07:03:21 | Player:Player | Turn:100 | Event:Cell (6, 5) was smited by divine beings
+2026-06-02 07:03:21 | Player:1 | Turn:100 | Event:Divine Smite
+2026-06-02 07:03:25 | Player:AI | Turn:104 | Event:Earthquake shifts every piece to the left
+2026-06-02 07:03:25 | Player:2 | Turn:104 | Event:Earthquake
+2026-06-02 07:51:21 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 7
+2026-06-02 07:51:21 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 07:51:26 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 10
+2026-06-02 07:51:26 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-02 07:51:30 | Player:AI | Turn:12 | Event:Void removed 7 tiles
+2026-06-02 07:51:30 | Player:2 | Turn:12 | Event:Void
+2026-06-02 07:51:34 | Player:AI | Turn:16 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 07:51:34 | Player:2 | Turn:16 | Event:Stargazer
+2026-06-02 07:51:38 | Player:AI | Turn:20 | Event:Earthquake shifts every piece to the left
+2026-06-02 07:51:38 | Player:2 | Turn:20 | Event:Earthquake
+2026-06-02 07:51:43 | Player:AI | Turn:24 | Event:Rage Quit triggered, 16 pieces destroyed
+2026-06-02 07:51:43 | Player:2 | Turn:24 | Event:Rage Quit
+2026-06-02 07:51:51 | Player:AI | Turn:28 | Event:Stargazer triggered and flipped 3 pieces
+2026-06-02 07:51:51 | Player:2 | Turn:28 | Event:Stargazer
+2026-06-02 07:52:36 | Player:1 | Turn:4 | Event:Fire Hazard
+2026-06-02 07:52:45 | Player:1 | Turn:8 | Event:Fire Hazard
+2026-06-02 07:53:05 | Player:1 | Turn:16 | Event:Fire Hazard
+2026-06-02 07:53:10 | Player:AI | Turn:20 | Event:Rainy Days spawned 20 pieces
+2026-06-02 07:53:10 | Player:2 | Turn:20 | Event:Rainy Days
+2026-06-02 07:53:16 | Player:AI | Turn:24 | Event:Earthquake shifts every piece to the up
+2026-06-02 07:53:16 | Player:2 | Turn:24 | Event:Earthquake
+2026-06-02 07:53:26 | Player:Player | Turn:28 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 07:53:26 | Player:1 | Turn:28 | Event:Divine Smite
+2026-06-02 07:53:34 | Player:AI | Turn:32 | Event:Void removed 9 tiles
+2026-06-02 07:53:34 | Player:2 | Turn:32 | Event:Void
+2026-06-02 07:53:44 | Player:AI | Turn:36 | Event:Tidal Surge flushed row 10
+2026-06-02 07:53:44 | Player:2 | Turn:36 | Event:Tidal Surge
+2026-06-02 07:53:54 | Player:AI | Turn:40 | Event:Tidal Surge flushed row 0
+2026-06-02 07:53:54 | Player:2 | Turn:40 | Event:Tidal Surge
+2026-06-02 07:54:20 | Player:Player | Turn:44 | Event:Cell (7, 4) was smited by divine beings
+2026-06-02 07:54:20 | Player:1 | Turn:44 | Event:Divine Smite
+2026-06-02 07:54:36 | Player:1 | Turn:48 | Event:Fire Hazard
+2026-06-02 07:55:01 | Player:Player | Turn:52 | Event:Convincing Whisper played at (7, 9) and converted [([7, 8], 1), ([6, 9], 1), ([8, 8], 1), ([9, 7], 2)] pieces
+2026-06-02 07:55:01 | Player:1 | Turn:52 | Event:Convincing Whisper
+2026-06-02 07:55:07 | Player:AI | Turn:56 | Event:Tidal Surge flushed row 10
+2026-06-02 07:55:07 | Player:2 | Turn:56 | Event:Tidal Surge
+2026-06-02 07:55:13 | Player:AI | Turn:60 | Event:Rainy Days spawned 12 pieces
+2026-06-02 07:55:13 | Player:2 | Turn:60 | Event:Rainy Days
+2026-06-02 07:55:24 | Player:AI | Turn:64 | Event:Tidal Surge flushed column 3
+2026-06-02 07:55:24 | Player:2 | Turn:64 | Event:Tidal Surge
+2026-06-02 07:55:44 | Player:1 | Turn:68 | Event:Fire Hazard
+2026-06-02 07:55:49 | Player:AI | Turn:72 | Event:Tidal Surge flushed column 10
+2026-06-02 07:55:49 | Player:2 | Turn:72 | Event:Tidal Surge
+2026-06-02 07:56:08 | Player:Player | Turn:76 | Event:Cell (2, 6) was smited by divine beings
+2026-06-02 07:56:08 | Player:1 | Turn:76 | Event:Divine Smite
+2026-06-02 07:56:13 | Player:AI | Turn:80 | Event:Tidal Surge flushed row 9
+2026-06-02 07:56:13 | Player:2 | Turn:80 | Event:Tidal Surge
+2026-06-02 07:56:33 | Player:1 | Turn:84 | Event:Fire Hazard
+2026-06-02 07:56:57 | Player:Player | Turn:90 | Event:Mirror: placed at (5,9), mirrored at (6,2), flipped 0 pieces along the line
+2026-06-02 07:56:57 | Player:1 | Turn:90 | Event:Mirror
+2026-06-02 07:57:07 | Player:Player | Turn:92 | Event:Mirror: placed at (10,6), mirrored at (1,5), flipped 0 pieces along the line
+2026-06-02 07:57:07 | Player:1 | Turn:92 | Event:Mirror
+2026-06-02 07:57:42 | Player:1 | Turn:94 | Event:Fire Hazard
+2026-06-02 07:57:54 | Player:AI | Turn:96 | Event:Earthquake shifts every piece to the down
+2026-06-02 07:57:54 | Player:2 | Turn:96 | Event:Earthquake
+2026-06-02 07:58:05 | Player:Player | Turn:101 | Event:Mirror: placed at (6,0), mirrored at (5,11), flipped 0 pieces along the line
+2026-06-02 07:58:05 | Player:1 | Turn:101 | Event:Mirror
+2026-06-02 07:58:20 | Player:1 | Turn:105 | Event:Fire Hazard
+2026-06-02 07:58:30 | Player:AI | Turn:108 | Event:Tidal Surge flushed row 5
+2026-06-02 07:58:30 | Player:2 | Turn:108 | Event:Tidal Surge
+2026-06-02 07:58:36 | Player:AI | Turn:112 | Event:Tidal Surge flushed row 9
+2026-06-02 07:58:36 | Player:2 | Turn:112 | Event:Tidal Surge
+2026-06-02 07:58:45 | Player:AI | Turn:116 | Event:Stargazer triggered and flipped 19 pieces
+2026-06-02 07:58:45 | Player:2 | Turn:116 | Event:Stargazer
+2026-06-02 08:06:53 | Player:Player | Turn:4 | Event:Mirror: placed at (7,7), mirrored at (4,4), flipped 2 pieces along the line
+2026-06-02 08:06:53 | Player:1 | Turn:4 | Event:Mirror
+2026-06-02 08:07:13 | Player:AI | Turn:4 | Event:Earthquake shifts every piece to the right
+2026-06-02 08:07:13 | Player:2 | Turn:4 | Event:Earthquake
+2026-06-02 08:07:35 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 0 pieces
+2026-06-02 08:07:35 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 08:15:04 | Player:Player | Turn:4 | Event:Cell (5, 4) was smited by divine beings
+2026-06-02 08:15:04 | Player:1 | Turn:4 | Event:Divine Smite
+2026-06-02 08:15:17 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 08:15:17 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 08:15:47 | Player:AI | Turn:8 | Event:Void removed 9 tiles
+2026-06-02 08:15:47 | Player:2 | Turn:8 | Event:Void
+2026-06-02 08:15:57 | Player:1 | Turn:12 | Event:Fire Hazard
+2026-06-02 08:16:04 | Player:1 | Turn:16 | Event:Fire Hazard
+2026-06-02 08:16:11 | Player:1 | Turn:20 | Event:Fire Hazard
+2026-06-02 08:16:15 | Player:AI | Turn:24 | Event:Earthquake shifts every piece to the right
+2026-06-02 08:16:15 | Player:2 | Turn:24 | Event:Earthquake
+2026-06-02 08:16:21 | Player:AI | Turn:28 | Event:Stargazer triggered and flipped 8 pieces
+2026-06-02 08:16:21 | Player:2 | Turn:28 | Event:Stargazer
+2026-06-02 08:16:31 | Player:AI | Turn:32 | Event:Tidal Surge flushed column 2
+2026-06-02 08:16:31 | Player:2 | Turn:32 | Event:Tidal Surge
+2026-06-02 08:16:41 | Player:AI | Turn:36 | Event:Stargazer triggered and flipped 6 pieces
+2026-06-02 08:16:41 | Player:2 | Turn:36 | Event:Stargazer
+2026-06-02 08:17:01 | Player:AI | Turn:40 | Event:Tidal Surge flushed row 10
+2026-06-02 08:17:01 | Player:2 | Turn:40 | Event:Tidal Surge
+2026-06-02 08:17:06 | Player:Player | Turn:44 | Event:Mirror: placed at (6,1), mirrored at (5,10), flipped 0 pieces along the line
+2026-06-02 08:17:06 | Player:1 | Turn:44 | Event:Mirror
+2026-06-02 08:17:11 | Player:AI | Turn:48 | Event:Void removed 9 tiles
+2026-06-02 08:17:11 | Player:2 | Turn:48 | Event:Void
+2026-06-02 08:17:14 | Player:AI | Turn:52 | Event:Tidal Surge flushed column 7
+2026-06-02 08:17:14 | Player:2 | Turn:52 | Event:Tidal Surge
+2026-06-02 08:17:21 | Player:AI | Turn:56 | Event:Stargazer triggered and flipped 9 pieces
+2026-06-02 08:17:21 | Player:2 | Turn:56 | Event:Stargazer
+2026-06-02 08:17:25 | Player:AI | Turn:60 | Event:Tidal Surge flushed column 4
+2026-06-02 08:17:25 | Player:2 | Turn:60 | Event:Tidal Surge
+2026-06-02 08:17:32 | Player:Player | Turn:64 | Event:Convincing Whisper played at (6, 5) and converted [([6, 6], 1), ([6, 4], 1), ([7, 5], 1), ([5, 5], 1), ([5, 6], 1), ([6, 3], 2), ([6, 2], 3), ([6, 1], 4), ([6, 0], 5)] pieces
+2026-06-02 08:17:32 | Player:1 | Turn:64 | Event:Convincing Whisper
+2026-06-02 08:17:40 | Player:AI | Turn:68 | Event:Void removed 6 tiles
+2026-06-02 08:17:40 | Player:2 | Turn:68 | Event:Void
+2026-06-02 08:17:45 | Player:AI | Turn:72 | Event:Tidal Surge flushed row 5
+2026-06-02 08:17:45 | Player:2 | Turn:72 | Event:Tidal Surge
+2026-06-02 08:17:50 | Player:AI | Turn:76 | Event:Void removed 6 tiles
+2026-06-02 08:17:50 | Player:2 | Turn:76 | Event:Void
+2026-06-02 08:17:55 | Player:Player | Turn:80 | Event:Convincing Whisper played at (7, 8) and converted [([8, 9], 1), ([6, 9], 1), ([6, 7], 1), ([9, 10], 2), ([5, 10], 2), ([4, 11], 3)] pieces
+2026-06-02 08:17:55 | Player:1 | Turn:80 | Event:Convincing Whisper
+2026-06-02 08:17:58 | Player:AI | Turn:84 | Event:Tidal Surge flushed column 3
+2026-06-02 08:17:58 | Player:2 | Turn:84 | Event:Tidal Surge
+2026-06-02 08:18:05 | Player:Player | Turn:88 | Event:Mirror: placed at (4,9), mirrored at (7,2), flipped 0 pieces along the line
+2026-06-02 08:18:05 | Player:1 | Turn:88 | Event:Mirror
+2026-06-02 08:18:09 | Player:AI | Turn:92 | Event:Stargazer triggered and flipped 17 pieces
+2026-06-02 08:18:09 | Player:2 | Turn:92 | Event:Stargazer
+2026-06-02 08:18:14 | Player:Player | Turn:96 | Event:Mirror: placed at (0,2), mirrored at (11,9), flipped 0 pieces along the line
+2026-06-02 08:18:14 | Player:1 | Turn:96 | Event:Mirror
+2026-06-02 08:18:18 | Player:AI | Turn:100 | Event:Tidal Surge flushed row 0
+2026-06-02 08:18:18 | Player:2 | Turn:100 | Event:Tidal Surge
+2026-06-02 08:18:38 | Player:Player | Turn:104 | Event:Cell (7, 9) was smited by divine beings
+2026-06-02 08:18:38 | Player:1 | Turn:104 | Event:Divine Smite
+2026-06-02 08:18:41 | Player:AI | Turn:108 | Event:Tidal Surge flushed column 3
+2026-06-02 08:18:41 | Player:2 | Turn:108 | Event:Tidal Surge
+2026-06-02 08:18:49 | Player:1 | Turn:112 | Event:Fire Hazard
+2026-06-02 08:19:03 | Player:AI | Turn:116 | Event:Rainy Days spawned 12 pieces
+2026-06-02 08:19:03 | Player:2 | Turn:116 | Event:Rainy Days
+2026-06-02 08:19:07 | Player:AI | Turn:120 | Event:Earthquake shifts every piece to the up
+2026-06-02 08:19:07 | Player:2 | Turn:120 | Event:Earthquake
+2026-06-02 08:19:24 | Player:AI | Turn:124 | Event:Tidal Surge flushed row 6
+2026-06-02 08:19:24 | Player:2 | Turn:124 | Event:Tidal Surge
+2026-06-02 08:19:27 | Player:AI | Turn:128 | Event:Stargazer triggered and flipped 13 pieces
+2026-06-02 08:19:27 | Player:2 | Turn:128 | Event:Stargazer
+2026-06-02 08:19:35 | Player:AI | Turn:132 | Event:Void removed 8 tiles
+2026-06-02 08:19:35 | Player:2 | Turn:132 | Event:Void
+2026-06-02 08:19:39 | Player:AI | Turn:136 | Event:Void removed 8 tiles
+2026-06-02 08:19:39 | Player:2 | Turn:136 | Event:Void
+2026-06-02 08:19:42 | Player:AI | Turn:140 | Event:Stargazer triggered and flipped 6 pieces
+2026-06-02 08:19:42 | Player:2 | Turn:140 | Event:Stargazer
+2026-06-02 08:19:49 | Player:Player | Turn:144 | Event:Mirror: placed at (3,1), mirrored at (8,10), flipped 0 pieces along the line
+2026-06-02 08:19:49 | Player:1 | Turn:144 | Event:Mirror
+2026-06-02 08:19:55 | Player:Player | Turn:148 | Event:Mirror: placed at (10,5), mirrored at (1,6), flipped 0 pieces along the line
+2026-06-02 08:19:55 | Player:1 | Turn:148 | Event:Mirror
+2026-06-02 08:20:01 | Player:Player | Turn:152 | Event:Mirror: placed at (1,3), mirrored at (10,8), flipped 0 pieces along the line
+2026-06-02 08:20:01 | Player:1 | Turn:152 | Event:Mirror
+2026-06-02 08:20:09 | Player:Player | Turn:156 | Event:Mirror: placed at (10,7), mirrored at (1,4), flipped 0 pieces along the line
+2026-06-02 08:20:09 | Player:1 | Turn:156 | Event:Mirror
+2026-06-02 08:20:37 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 08:20:37 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 08:20:41 | Player:AI | Turn:8 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 08:20:41 | Player:2 | Turn:8 | Event:Stargazer
+2026-06-02 08:20:44 | Player:AI | Turn:12 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 08:20:44 | Player:2 | Turn:12 | Event:Stargazer
+2026-06-02 08:20:47 | Player:AI | Turn:16 | Event:Earthquake shifts every piece to the right
+2026-06-02 08:20:47 | Player:2 | Turn:16 | Event:Earthquake
+2026-06-02 08:20:51 | Player:AI | Turn:20 | Event:Rage Quit triggered, 8 pieces destroyed
+2026-06-02 08:20:51 | Player:2 | Turn:20 | Event:Rage Quit
+2026-06-02 08:20:55 | Player:AI | Turn:24 | Event:Rainy Days spawned 12 pieces
+2026-06-02 08:20:55 | Player:2 | Turn:24 | Event:Rainy Days
+2026-06-02 08:21:01 | Player:Player | Turn:28 | Event:Cell (10, 4) was smited by divine beings
+2026-06-02 08:21:01 | Player:1 | Turn:28 | Event:Divine Smite
+2026-06-02 08:21:07 | Player:Player | Turn:32 | Event:Piece placed at (9,9) and flipping 2 pieces and mirrored at (2, 2) that flipped 0 pieces
+2026-06-02 08:21:07 | Player:1 | Turn:32 | Event:Mirror
+2026-06-02 08:21:17 | Player:Player | Turn:36 | Event:Piece placed at (1,4) and flipping 3 pieces and mirrored at (10, 7) that flipped 1 pieces
+2026-06-02 08:21:17 | Player:1 | Turn:36 | Event:Mirror
+2026-06-02 08:21:31 | Player:Player | Turn:40 | Event:Piece placed at (11,11) and flipping 3 pieces and mirrored at (0, 0) that flipped 0 pieces
+2026-06-02 08:21:31 | Player:1 | Turn:40 | Event:Mirror
+2026-06-02 08:21:42 | Player:AI | Turn:44 | Event:Void removed 7 tiles
+2026-06-02 08:21:42 | Player:2 | Turn:44 | Event:Void
+2026-06-02 08:22:23 | Player:AI | Turn:52 | Event:Rainy Days spawned 10 pieces
+2026-06-02 08:22:23 | Player:2 | Turn:52 | Event:Rainy Days
+2026-06-02 08:22:33 | Player:Player | Turn:56 | Event:Cell (7, 8) was smited by divine beings
+2026-06-02 08:22:33 | Player:1 | Turn:56 | Event:Divine Smite
+2026-06-02 08:22:41 | Player:Player | Turn:60 | Event:Piece placed at (10,7) and flipping 1 pieces and mirrored at (1, 4) that flipped 0 pieces
+2026-06-02 08:22:41 | Player:1 | Turn:60 | Event:Mirror
+2026-06-02 08:22:45 | Player:AI | Turn:64 | Event:Stargazer triggered and flipped 6 pieces
+2026-06-02 08:22:45 | Player:2 | Turn:64 | Event:Stargazer
+2026-06-02 08:22:49 | Player:AI | Turn:68 | Event:Earthquake shifts every piece to the down
+2026-06-02 08:22:49 | Player:2 | Turn:68 | Event:Earthquake
+2026-06-02 08:22:57 | Player:1 | Turn:72 | Event:Fire Hazard
+2026-06-02 08:23:01 | Player:AI | Turn:76 | Event:Stargazer triggered and flipped 11 pieces
+2026-06-02 08:23:01 | Player:2 | Turn:76 | Event:Stargazer
+2026-06-02 08:23:05 | Player:AI | Turn:80 | Event:Void removed 7 tiles
+2026-06-02 08:23:05 | Player:2 | Turn:80 | Event:Void
+2026-06-02 08:23:09 | Player:AI | Turn:84 | Event:Tidal Surge flushed row 6
+2026-06-02 08:23:09 | Player:2 | Turn:84 | Event:Tidal Surge
+2026-06-02 08:24:39 | Player:1 | Turn:4 | Event:Fire Hazard
+2026-06-02 08:24:52 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 0 pieces
+2026-06-02 08:24:52 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 08:24:55 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 2
+2026-06-02 08:24:55 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-02 08:24:59 | Player:AI | Turn:12 | Event:Tidal Surge flushed row 4
+2026-06-02 08:24:59 | Player:2 | Turn:12 | Event:Tidal Surge
+2026-06-02 08:25:09 | Player:Player | Turn:16 | Event:Piece placed at (7,3) and flipping 1 pieces and mirrored at (4, 8) that flipped 1 pieces
+2026-06-02 08:25:09 | Player:1 | Turn:16 | Event:Mirror
+2026-06-02 08:25:16 | Player:AI | Turn:20 | Event:Tidal Surge flushed column 1
+2026-06-02 08:25:16 | Player:2 | Turn:20 | Event:Tidal Surge
+2026-06-02 08:25:19 | Player:AI | Turn:24 | Event:Starfall destroyed 5 2x2 areas
+2026-06-02 08:25:19 | Player:2 | Turn:24 | Event:Starfall
+2026-06-02 08:25:22 | Player:AI | Turn:28 | Event:Tidal Surge flushed row 4
+2026-06-02 08:25:22 | Player:2 | Turn:28 | Event:Tidal Surge
+2026-06-02 08:25:30 | Player:1 | Turn:32 | Event:Fire Hazard
+2026-06-02 08:25:32 | Player:AI | Turn:36 | Event:Stargazer triggered and flipped 3 pieces
+2026-06-02 08:25:32 | Player:2 | Turn:36 | Event:Stargazer
+2026-06-02 08:25:35 | Player:AI | Turn:40 | Event:Starfall destroyed 4 2x2 areas
+2026-06-02 08:25:35 | Player:2 | Turn:40 | Event:Starfall
+2026-06-02 08:25:38 | Player:AI | Turn:44 | Event:Starfall destroyed 4 2x2 areas
+2026-06-02 08:25:38 | Player:2 | Turn:44 | Event:Starfall
+2026-06-02 08:25:41 | Player:AI | Turn:48 | Event:Tidal Surge flushed column 11
+2026-06-02 08:25:41 | Player:2 | Turn:48 | Event:Tidal Surge
+2026-06-02 08:25:46 | Player:Player | Turn:52 | Event:Piece placed at (3,11) and flipping 6 pieces and mirrored at (8, 0) that flipped 0 pieces
+2026-06-02 08:25:46 | Player:1 | Turn:52 | Event:Mirror
+2026-06-02 08:25:54 | Player:Player | Turn:56 | Event:Piece placed at (4,5) and flipping 1 pieces and mirrored at (7, 6) that flipped 0 pieces
+2026-06-02 08:25:54 | Player:1 | Turn:56 | Event:Mirror
+2026-06-02 08:26:00 | Player:Player | Turn:60 | Event:Cell (5, 6) was smited by divine beings
+2026-06-02 08:26:00 | Player:1 | Turn:60 | Event:Divine Smite
+2026-06-02 08:26:03 | Player:AI | Turn:64 | Event:Tidal Surge flushed row 4
+2026-06-02 08:26:03 | Player:2 | Turn:64 | Event:Tidal Surge
+2026-06-02 08:26:08 | Player:AI | Turn:68 | Event:Rainy Days spawned 19 pieces
+2026-06-02 08:26:08 | Player:2 | Turn:68 | Event:Rainy Days
+2026-06-02 08:26:11 | Player:AI | Turn:72 | Event:Tidal Surge flushed column 10
+2026-06-02 08:26:11 | Player:2 | Turn:72 | Event:Tidal Surge
+2026-06-02 08:26:22 | Player:1 | Turn:80 | Event:Fire Hazard
+2026-06-02 08:26:27 | Player:Player | Turn:84 | Event:Piece placed at (0,10) and flipping 2 pieces and mirrored at (11, 1) that flipped 0 pieces
+2026-06-02 08:26:27 | Player:1 | Turn:84 | Event:Mirror
+2026-06-02 08:26:36 | Player:Player | Turn:88 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 08:26:36 | Player:1 | Turn:88 | Event:Divine Smite
+2026-06-02 08:26:40 | Player:AI | Turn:92 | Event:Starfall destroyed 8 2x2 areas
+2026-06-02 08:26:40 | Player:2 | Turn:92 | Event:Starfall
+2026-06-02 08:26:43 | Player:AI | Turn:96 | Event:Tidal Surge flushed column 1
+2026-06-02 08:26:43 | Player:2 | Turn:96 | Event:Tidal Surge
+2026-06-02 08:26:50 | Player:1 | Turn:100 | Event:Fire Hazard
+2026-06-02 08:26:55 | Player:Player | Turn:104 | Event:Cell (6, 8) was smited by divine beings
+2026-06-02 08:26:55 | Player:1 | Turn:104 | Event:Divine Smite
+2026-06-02 08:27:03 | Player:Player | Turn:108 | Event:Cell (8, 3) was smited by divine beings
+2026-06-02 08:27:03 | Player:1 | Turn:108 | Event:Divine Smite
+2026-06-02 08:27:07 | Player:AI | Turn:112 | Event:Stargazer triggered and flipped 13 pieces
+2026-06-02 08:27:07 | Player:2 | Turn:112 | Event:Stargazer
+2026-06-02 08:27:22 | Player:Player | Turn:116 | Event:Convincing Whisper played at (4, 8) and converted [([4, 9], 1), ([4, 7], 1), ([5, 7], 1), ([6, 6], 2), ([7, 5], 3), ([0, 8], 4), ([8, 4], 4), ([9, 3], 5), ([10, 2], 6), ([11, 1], 7)] pieces
+2026-06-02 08:27:22 | Player:1 | Turn:116 | Event:Convincing Whisper
+2026-06-02 08:27:28 | Player:AI | Turn:120 | Event:Starfall destroyed 6 2x2 areas
+2026-06-02 08:27:28 | Player:2 | Turn:120 | Event:Starfall
+2026-06-02 08:27:34 | Player:1 | Turn:124 | Event:Fire Hazard
+2026-06-02 08:27:40 | Player:1 | Turn:128 | Event:Fire Hazard
+2026-06-02 08:27:45 | Player:AI | Turn:132 | Event:Tidal Surge flushed column 9
+2026-06-02 08:27:45 | Player:2 | Turn:132 | Event:Tidal Surge
+2026-06-02 08:27:50 | Player:AI | Turn:136 | Event:Tidal Surge flushed column 2
+2026-06-02 08:27:50 | Player:2 | Turn:136 | Event:Tidal Surge
+2026-06-02 08:27:57 | Player:1 | Turn:142 | Event:Fire Hazard
+2026-06-02 08:28:02 | Player:1 | Turn:146 | Event:Fire Hazard
+2026-06-02 08:28:08 | Player:Player | Turn:148 | Event:Cell (6, 4) was smited by divine beings
+2026-06-02 08:28:08 | Player:1 | Turn:148 | Event:Divine Smite
+2026-06-02 08:28:11 | Player:AI | Turn:152 | Event:Rainy Days spawned 18 pieces
+2026-06-02 08:28:11 | Player:2 | Turn:152 | Event:Rainy Days
+2026-06-02 08:28:15 | Player:AI | Turn:156 | Event:Rainy Days spawned 15 pieces
+2026-06-02 08:28:15 | Player:2 | Turn:156 | Event:Rainy Days
+2026-06-02 08:28:22 | Player:1 | Turn:160 | Event:Fire Hazard
+2026-06-02 08:28:32 | Player:1 | Turn:164 | Event:Fire Hazard
+2026-06-02 08:28:36 | Player:AI | Turn:168 | Event:Rainy Days spawned 20 pieces
+2026-06-02 08:28:36 | Player:2 | Turn:168 | Event:Rainy Days
+2026-06-02 08:28:42 | Player:Player | Turn:172 | Event:Fire spreads to [(5, 6), [6, 6], [5, 6], [5, 5], [4, 5], [4, 4], [3, 4], [2, 4], [1, 4], [1, 5], [2, 5], [2, 6]]
+2026-06-02 08:28:42 | Player:1 | Turn:172 | Event:Fire Hazard
+2026-06-02 08:28:52 | Player:AI | Turn:176 | Event:Stargazer triggered and flipped 15 pieces
+2026-06-02 08:28:52 | Player:2 | Turn:176 | Event:Stargazer
+2026-06-02 08:28:58 | Player:AI | Turn:184 | Event:Tidal Surge flushed column 2
+2026-06-02 08:28:58 | Player:2 | Turn:184 | Event:Tidal Surge
+2026-06-02 08:29:02 | Player:AI | Turn:188 | Event:Earthquake shifts every piece to the left
+2026-06-02 08:29:02 | Player:2 | Turn:188 | Event:Earthquake
+2026-06-02 08:29:11 | Player:Player | Turn:194 | Event:Cell (3, 8) was smited by divine beings
+2026-06-02 08:29:11 | Player:1 | Turn:194 | Event:Divine Smite
+2026-06-02 08:29:13 | Player:AI | Turn:196 | Event:Tidal Surge flushed row 2
+2026-06-02 08:29:13 | Player:2 | Turn:196 | Event:Tidal Surge
+2026-06-02 08:29:21 | Player:Player | Turn:200 | Event:Piece placed at (2,11) and flipping 1 pieces and mirrored at (9, 0) that flipped 8 pieces
+2026-06-02 08:29:21 | Player:1 | Turn:200 | Event:Mirror
+2026-06-02 08:29:25 | Player:AI | Turn:204 | Event:Tidal Surge flushed column 11
+2026-06-02 08:29:25 | Player:2 | Turn:204 | Event:Tidal Surge
+2026-06-02 08:29:30 | Player:1 | Turn:210 | Event:Fire Hazard
+2026-06-02 08:29:33 | Player:1 | Turn:214 | Event:Fire Hazard
+2026-06-02 08:29:38 | Player:Player | Turn:216 | Event:Convincing Whisper played at (3, 9) and converted [([3, 8], 1), ([4, 9], 1), ([4, 8], 1), ([3, 7], 2), ([5, 11], 2), ([3, 6], 3), ([6, 9], 3), ([6, 6], 3), ([3, 5], 4), ([3, 4], 5), ([8, 9], 5), ([10, 2], 7)] pieces
+2026-06-02 08:29:38 | Player:1 | Turn:216 | Event:Convincing Whisper
+2026-06-02 08:29:45 | Player:1 | Turn:220 | Event:Fire Hazard
+2026-06-02 08:29:47 | Player:AI | Turn:224 | Event:Starfall destroyed 4 2x2 areas
+2026-06-02 08:29:47 | Player:2 | Turn:224 | Event:Starfall
+2026-06-02 08:29:55 | Player:Player | Turn:228 | Event:Convincing Whisper played at (6, 9) and converted [([7, 8], 1), ([6, 7], 2), ([8, 7], 2), ([9, 6], 3), ([10, 5], 4), ([11, 4], 5)] pieces
+2026-06-02 08:29:55 | Player:1 | Turn:228 | Event:Convincing Whisper
+2026-06-02 08:30:00 | Player:AI | Turn:232 | Event:Starfall destroyed 4 2x2 areas
+2026-06-02 08:30:00 | Player:2 | Turn:232 | Event:Starfall
+2026-06-02 08:30:06 | Player:1 | Turn:236 | Event:Fire Hazard
+2026-06-02 08:30:11 | Player:AI | Turn:240 | Event:Tidal Surge flushed column 10
+2026-06-02 08:30:11 | Player:2 | Turn:240 | Event:Tidal Surge
+2026-06-02 08:30:16 | Player:1 | Turn:244 | Event:Fire Hazard
+2026-06-02 08:30:26 | Player:Player | Turn:248 | Event:Cell (8, 8) was smited by divine beings
+2026-06-02 08:30:26 | Player:1 | Turn:248 | Event:Divine Smite
+2026-06-02 08:30:33 | Player:Player | Turn:252 | Event:Cell (6, 10) was smited by divine beings
+2026-06-02 08:30:33 | Player:1 | Turn:252 | Event:Divine Smite
+2026-06-02 08:30:37 | Player:AI | Turn:256 | Event:Rage Quit triggered, 71 pieces destroyed
+2026-06-02 08:30:37 | Player:2 | Turn:256 | Event:Rage Quit
+2026-06-02 08:34:09 | Player:Player | Turn:4 | Event:Mirror: placed at (7,6), mirrored at (4,5), flipped 0 pieces along the line
+2026-06-02 08:34:09 | Player:1 | Turn:4 | Event:Mirror
+2026-06-02 08:34:15 | Player:Player | Turn:8 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 08:34:15 | Player:1 | Turn:8 | Event:Divine Smite
+2026-06-02 08:34:19 | Player:AI | Turn:12 | Event:Rainy Days spawned 10 pieces
+2026-06-02 08:34:19 | Player:2 | Turn:12 | Event:Rainy Days
+2026-06-02 08:35:32 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 5
+2026-06-02 08:35:32 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 08:35:35 | Player:AI | Turn:8 | Event:Rainy Days spawned 10 pieces
+2026-06-02 08:35:35 | Player:2 | Turn:8 | Event:Rainy Days
+2026-06-02 08:35:38 | Player:AI | Turn:12 | Event:Tidal Surge flushed row 7
+2026-06-02 08:35:38 | Player:2 | Turn:12 | Event:Tidal Surge
+2026-06-02 08:37:21 | Player:AI | Turn:4 | Event:Rainy Days spawned 8 pieces
+2026-06-02 08:37:21 | Player:2 | Turn:4 | Event:Rainy Days
+2026-06-02 08:37:44 | Player:1 | Turn:8 | Event:Fire Hazard
+2026-06-02 08:37:59 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 08:37:59 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 08:38:03 | Player:AI | Turn:8 | Event:Rainy Days spawned 12 pieces
+2026-06-02 08:38:03 | Player:2 | Turn:8 | Event:Rainy Days
+2026-06-02 08:38:11 | Player:Player | Turn:12 | Event:Mirror: placed at (6,3), mirrored at (5,8), flipped 0 pieces along the line
+2026-06-02 08:38:11 | Player:1 | Turn:12 | Event:Mirror
+2026-06-02 08:38:20 | Player:AI | Turn:16 | Event:Starfall destroyed 8 2x2 areas
+2026-06-02 08:38:20 | Player:2 | Turn:16 | Event:Starfall
+2026-06-02 08:38:26 | Player:AI | Turn:20 | Event:Tidal Surge flushed column 11
+2026-06-02 08:38:26 | Player:2 | Turn:20 | Event:Tidal Surge
+2026-06-02 08:38:35 | Player:1 | Turn:24 | Event:Fire Hazard
+2026-06-02 08:38:44 | Player:1 | Turn:28 | Event:Fire Hazard
+2026-06-02 08:38:58 | Player:Player | Turn:32 | Event:Mirror: placed at (0,4), mirrored at (11,7), flipped 0 pieces along the line
+2026-06-02 08:38:58 | Player:1 | Turn:32 | Event:Mirror
+2026-06-02 08:39:18 | Player:1 | Turn:36 | Event:Fire Hazard
+2026-06-02 08:39:21 | Player:AI | Turn:40 | Event:Tidal Surge flushed column 2
+2026-06-02 08:39:21 | Player:2 | Turn:40 | Event:Tidal Surge
+2026-06-02 08:39:37 | Player:Player | Turn:44 | Event:Convincing Whisper played at (4, 7) and converted [([4, 6], 1), ([5, 7], 1), ([3, 7], 1), ([5, 8], 1), ([3, 8], 1), ([3, 6], 1), ([6, 7], 2), ([2, 5], 2), ([7, 7], 3), ([8, 7], 4), ([9, 7], 5)] pieces
+2026-06-02 08:39:37 | Player:1 | Turn:44 | Event:Convincing Whisper
+2026-06-02 08:39:47 | Player:AI | Turn:48 | Event:Rainy Days spawned 9 pieces
+2026-06-02 08:39:47 | Player:2 | Turn:48 | Event:Rainy Days
+2026-06-02 08:39:51 | Player:AI | Turn:52 | Event:Stargazer triggered and flipped 12 pieces
+2026-06-02 08:39:51 | Player:2 | Turn:52 | Event:Stargazer
+2026-06-02 08:59:29 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 7
+2026-06-02 08:59:29 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 08:59:35 | Player:1 | Turn:8 | Event:Fire Hazard
+2026-06-02 08:59:38 | Player:AI | Turn:12 | Event:Stargazer triggered and flipped 2 pieces
+2026-06-02 08:59:38 | Player:2 | Turn:12 | Event:Stargazer
+2026-06-02 08:59:45 | Player:Player | Turn:16 | Event:Mirror: placed at (8,3), mirrored at (3,8), flipped 2 pieces along the line
+2026-06-02 08:59:45 | Player:1 | Turn:16 | Event:Mirror
+2026-06-02 08:59:48 | Player:AI | Turn:20 | Event:Tidal Surge flushed column 4
+2026-06-02 08:59:48 | Player:2 | Turn:20 | Event:Tidal Surge
+2026-06-02 09:05:23 | Player:Player | Turn:4 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 09:05:23 | Player:1 | Turn:4 | Event:Divine Smite
+2026-06-02 09:05:45 | Player:AI | Turn:4 | Event:Earthquake shifts every piece to the down
+2026-06-02 09:05:45 | Player:2 | Turn:4 | Event:Earthquake
+2026-06-02 09:05:53 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 3
+2026-06-02 09:05:53 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-02 09:06:03 | Player:AI | Turn:12 | Event:Earthquake shifts every piece to the right
+2026-06-02 09:06:03 | Player:2 | Turn:12 | Event:Earthquake
+2026-06-02 09:06:08 | Player:AI | Turn:16 | Event:Tidal Surge flushed column 2
+2026-06-02 09:06:08 | Player:2 | Turn:16 | Event:Tidal Surge
+2026-06-02 09:06:13 | Player:AI | Turn:20 | Event:Tidal Surge flushed column 6
+2026-06-02 09:06:13 | Player:2 | Turn:20 | Event:Tidal Surge
+2026-06-02 09:06:18 | Player:Player | Turn:24 | Event:Cell (6, 8) was smited by divine beings
+2026-06-02 09:06:18 | Player:1 | Turn:24 | Event:Divine Smite
+2026-06-02 09:06:24 | Player:Player | Turn:28 | Event:Mirror: placed at (8,3), mirrored at (3,8), flipped 4 pieces along the line
+2026-06-02 09:06:24 | Player:1 | Turn:28 | Event:Mirror
+2026-06-02 09:06:29 | Player:Player | Turn:32 | Event:Cell (10, 4) was smited by divine beings
+2026-06-02 09:06:29 | Player:1 | Turn:32 | Event:Divine Smite
+2026-06-02 09:06:34 | Player:AI | Turn:36 | Event:Earthquake shifts every piece to the up
+2026-06-02 09:06:34 | Player:2 | Turn:36 | Event:Earthquake
+2026-06-02 09:06:38 | Player:AI | Turn:40 | Event:Tidal Surge flushed row 5
+2026-06-02 09:06:38 | Player:2 | Turn:40 | Event:Tidal Surge
+2026-06-02 09:06:48 | Player:Player | Turn:44 | Event:Cell (10, 10) was smited by divine beings
+2026-06-02 09:06:48 | Player:1 | Turn:44 | Event:Divine Smite
+2026-06-02 09:06:55 | Player:Player | Turn:48 | Event:Cell (3, 6) was smited by divine beings
+2026-06-02 09:06:55 | Player:1 | Turn:48 | Event:Divine Smite
+2026-06-02 09:16:28 | Player:Player | Turn:4 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 09:16:28 | Player:1 | Turn:4 | Event:Divine Smite
+2026-06-02 09:16:36 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 6
+2026-06-02 09:16:36 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 09:16:41 | Player:Player | Turn:8 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 09:16:41 | Player:1 | Turn:8 | Event:Divine Smite
+2026-06-02 09:17:10 | Player:Player | Turn:4 | Event:Cell (5, 5) was smited by divine beings
+2026-06-02 09:17:10 | Player:1 | Turn:4 | Event:Divine Smite
+2026-06-02 09:17:20 | Player:AI | Turn:4 | Event:Tidal Surge flushed column 6
+2026-06-02 09:17:20 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 09:17:32 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 8
+2026-06-02 09:17:32 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 09:17:36 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 1
+2026-06-02 09:17:36 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-02 09:17:43 | Player:AI | Turn:12 | Event:Tidal Surge flushed column 6
+2026-06-02 09:17:43 | Player:2 | Turn:12 | Event:Tidal Surge
+2026-06-02 09:17:46 | Player:AI | Turn:16 | Event:Tidal Surge flushed row 6
+2026-06-02 09:17:46 | Player:2 | Turn:16 | Event:Tidal Surge
+2026-06-02 09:17:52 | Player:Player | Turn:20 | Event:Cell (7, 2) was smited by divine beings
+2026-06-02 09:17:52 | Player:1 | Turn:20 | Event:Divine Smite
+2026-06-02 09:18:00 | Player:Player | Turn:24 | Event:Mirror: placed at (7,0), mirrored at (4,11), flipped 0 pieces along the line
+2026-06-02 09:18:00 | Player:1 | Turn:24 | Event:Mirror
+2026-06-02 09:18:14 | Player:Player | Turn:28 | Event:Mirror: placed at (11,0), mirrored at (0,11), flipped 5 pieces along the line
+2026-06-02 09:18:14 | Player:1 | Turn:28 | Event:Mirror
+2026-06-02 09:18:24 | Player:Player | Turn:32 | Event:Cell (6, 1) was smited by divine beings
+2026-06-02 09:18:24 | Player:1 | Turn:32 | Event:Divine Smite
+2026-06-02 09:18:35 | Player:Player | Turn:36 | Event:Mirror: placed at (3,0), mirrored at (8,11), flipped 0 pieces along the line
+2026-06-02 09:18:35 | Player:1 | Turn:36 | Event:Mirror
+2026-06-02 09:18:40 | Player:AI | Turn:40 | Event:Tidal Surge flushed column 11
+2026-06-02 09:18:40 | Player:2 | Turn:40 | Event:Tidal Surge
+2026-06-02 09:18:47 | Player:Player | Turn:44 | Event:Cell (9, 3) was smited by divine beings
+2026-06-02 09:18:47 | Player:1 | Turn:44 | Event:Divine Smite
+2026-06-02 09:18:50 | Player:AI | Turn:48 | Event:Earthquake shifts every piece to the right
+2026-06-02 09:18:50 | Player:2 | Turn:48 | Event:Earthquake
+2026-06-02 09:18:56 | Player:AI | Turn:52 | Event:Tidal Surge flushed row 1
+2026-06-02 09:18:56 | Player:2 | Turn:52 | Event:Tidal Surge
+2026-06-02 09:18:59 | Player:AI | Turn:56 | Event:Tidal Surge flushed column 9
+2026-06-02 09:18:59 | Player:2 | Turn:56 | Event:Tidal Surge
+2026-06-02 09:19:05 | Player:Player | Turn:60 | Event:Mirror: placed at (1,0), mirrored at (10,11), flipped 0 pieces along the line
+2026-06-02 09:19:05 | Player:1 | Turn:60 | Event:Mirror
+2026-06-02 09:19:08 | Player:AI | Turn:64 | Event:Tidal Surge flushed column 4
+2026-06-02 09:19:08 | Player:2 | Turn:64 | Event:Tidal Surge
+2026-06-02 09:19:18 | Player:Player | Turn:68 | Event:Mirror: placed at (10,0), mirrored at (1,11), flipped 0 pieces along the line
+2026-06-02 09:19:18 | Player:1 | Turn:68 | Event:Mirror
+2026-06-02 09:19:31 | Player:AI | Turn:72 | Event:Tidal Surge flushed column 10
+2026-06-02 09:19:31 | Player:2 | Turn:72 | Event:Tidal Surge
+2026-06-02 09:19:36 | Player:AI | Turn:76 | Event:Tidal Surge flushed row 2
+2026-06-02 09:19:36 | Player:2 | Turn:76 | Event:Tidal Surge
+2026-06-02 09:19:42 | Player:AI | Turn:80 | Event:Tidal Surge flushed column 11
+2026-06-02 09:19:42 | Player:2 | Turn:80 | Event:Tidal Surge
+2026-06-02 09:19:47 | Player:AI | Turn:84 | Event:Earthquake shifts every piece to the left
+2026-06-02 09:19:47 | Player:2 | Turn:84 | Event:Earthquake
+2026-06-02 09:19:57 | Player:Player | Turn:88 | Event:Mirror: placed at (0,7), mirrored at (11,4), flipped 0 pieces along the line
+2026-06-02 09:19:57 | Player:1 | Turn:88 | Event:Mirror
+2026-06-02 09:20:09 | Player:Player | Turn:92 | Event:Mirror: placed at (0,11), mirrored at (11,0), flipped 6 pieces along the line
+2026-06-02 09:20:09 | Player:1 | Turn:92 | Event:Mirror
+2026-06-02 09:20:17 | Player:Player | Turn:96 | Event:Mirror: placed at (11,1), mirrored at (0,10), flipped 0 pieces along the line
+2026-06-02 09:20:17 | Player:1 | Turn:96 | Event:Mirror
+2026-06-02 09:20:23 | Player:Player | Turn:100 | Event:Mirror: placed at (11,11), mirrored at (0,0), flipped 8 pieces along the line
+2026-06-02 09:20:23 | Player:1 | Turn:100 | Event:Mirror
+2026-06-02 09:20:28 | Player:AI | Turn:104 | Event:Tidal Surge flushed row 6
+2026-06-02 09:20:28 | Player:2 | Turn:104 | Event:Tidal Surge
+2026-06-02 09:20:31 | Player:AI | Turn:108 | Event:Tidal Surge flushed column 4
+2026-06-02 09:20:31 | Player:2 | Turn:108 | Event:Tidal Surge
+2026-06-02 09:31:43 | Player:AI | Turn:4 | Event:Tidal Surge flushed column 6
+2026-06-02 09:31:43 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 09:32:43 | Player:1 | Turn:4 | Event:Propagation
+2026-06-02 09:33:15 | Player:AI | Turn:4 | Event:Tidal Surge flushed row 9
+2026-06-02 09:33:15 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-02 09:33:22 | Player:Player | Turn:8 | Event:Amogus played at (6, 3) and converted [([6, 4], 1), ([6, 6], 3)] pieces
+2026-06-02 09:33:22 | Player:1 | Turn:8 | Event:Amogus
+2026-06-02 09:33:26 | Player:AI | Turn:12 | Event:Earthquake shifts every piece to the left
+2026-06-02 09:33:26 | Player:2 | Turn:12 | Event:Earthquake
+2026-06-02 09:33:29 | Player:AI | Turn:16 | Event:Earthquake shifts every piece to the down
+2026-06-02 09:33:29 | Player:2 | Turn:16 | Event:Earthquake
+2026-06-02 09:33:38 | Player:1 | Turn:20 | Event:Propagation
+2026-06-02 09:39:40 | Player:1 | Turn:6 | Event:Propagation
+2026-06-02 09:40:18 | Player:AI | Turn:4 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 09:40:18 | Player:2 | Turn:4 | Event:Stargazer
+2026-06-02 09:40:24 | Player:AI | Turn:8 | Event:Earthquake shifts every piece to the down
+2026-06-02 09:40:24 | Player:2 | Turn:8 | Event:Earthquake
+2026-06-02 09:40:32 | Player:AI | Turn:12 | Event:Earthquake shifts every piece to the up
+2026-06-02 09:40:32 | Player:2 | Turn:12 | Event:Earthquake
+2026-06-02 09:40:39 | Player:AI | Turn:16 | Event:Tidal Surge flushed column 0
+2026-06-02 09:40:39 | Player:2 | Turn:16 | Event:Tidal Surge
+2026-06-02 09:40:47 | Player:AI | Turn:20 | Event:Stargazer triggered and flipped 1 pieces
+2026-06-02 09:40:47 | Player:2 | Turn:20 | Event:Stargazer
+2026-06-02 09:41:04 | Player:1 | Turn:24 | Event:Propagation
+2026-06-02 09:44:10 | Player:Player | Turn:4 | Event:Cell (5, 4) was smited by divine beings
+2026-06-02 09:44:11 | Player:1 | Turn:4 | Event:Divine Smite
+2026-06-11 08:30:50 | Player:AI | Turn:4 | Event:Tidal Surge flushed column 0
+2026-06-11 08:30:50 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-11 08:30:54 | Player:AI | Turn:8 | Event:Tidal Surge flushed column 6
+2026-06-11 08:30:54 | Player:2 | Turn:8 | Event:Tidal Surge
+2026-06-11 08:30:58 | Player:AI | Turn:12 | Event:Tidal Surge flushed column 10
+2026-06-11 08:30:58 | Player:2 | Turn:12 | Event:Tidal Surge
+2026-06-11 08:33:19 | Player:AI | Turn:4 | Event:Tidal Surge flushed column 0
+2026-06-11 08:33:19 | Player:2 | Turn:4 | Event:Tidal Surge
+2026-06-11 08:33:23 | Player:1 | Turn:8 | Event:Mirror
+2026-06-11 08:33:28 | Player:1 | Turn:12 | Event:Mirror
+2026-06-11 08:40:07 | Player:1 | Turn:4 | Event:Mirror
+2026-06-11 08:40:13 | Player:Player | Turn:8 | Event:Cell (4, 5) was smited by divine beings
+2026-06-11 08:40:13 | Player:1 | Turn:8 | Event:Divine Smite
+2026-06-11 08:40:18 | Player:1 | Turn:12 | Event:Mirror
+2026-06-11 08:43:00 | Player:Player | Turn:4 | Event:Mirror: placed at (7,4), mirrored at (4,7), flipped 2 pieces along the line
+2026-06-11 08:43:00 | Player:1 | Turn:4 | Event:Mirror
+2026-06-11 08:44:07 | Player:Player | Turn:4 | Event:Mirror: placed at (6,3), mirrored at (5,8), flipped 0 pieces along the line
+2026-06-11 08:44:07 | Player:1 | Turn:4 | Event:Mirror
